@@ -15,9 +15,6 @@ Ingeniero de sistemas con más de 5 años de experiencia en programación. Mi en
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mangelino997&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mangelino997&limit=5&theme=discord&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mangelino997&icon=0&color=1)](https://visitcount.itsvg.in)
 
